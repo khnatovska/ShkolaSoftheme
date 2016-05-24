@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\1\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
