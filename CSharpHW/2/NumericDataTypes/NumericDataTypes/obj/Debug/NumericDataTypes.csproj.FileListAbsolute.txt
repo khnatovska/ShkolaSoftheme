@@ -1,0 +1,14 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\MainWindow.g.cs
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\App.g.cs
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes_MarkupCompile.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes_MarkupCompile.lref
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\MainWindow.baml
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.g.resources
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.Properties.Resources.resources
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.csproj.GenerateResource.Cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.pdb

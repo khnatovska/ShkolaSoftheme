@@ -12,6 +12,7 @@ namespace helloWorld
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Ksenia");
+            Console.ReadLine();
         }
     }
 }
