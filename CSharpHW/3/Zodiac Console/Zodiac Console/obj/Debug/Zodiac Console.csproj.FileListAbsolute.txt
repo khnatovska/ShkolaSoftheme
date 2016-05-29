@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\bin\Debug\Zodiac Console.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\bin\Debug\Zodiac Console.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\bin\Debug\Zodiac Console.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\obj\Debug\Zodiac Console.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\obj\Debug\Zodiac Console.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac Console\Zodiac Console\obj\Debug\Zodiac Console.pdb
