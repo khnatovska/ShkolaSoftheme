@@ -12,11 +12,6 @@ namespace DoubleCalculator
         {
             Console.WriteLine("Calculate here");
             RunCalculator();
-            //var firstOperand = GetOperand();
-            //var selectedOperator = GetOperator();
-            //var secondOperand = GetOperand();
-            //CalculateResult(firstOperand, selectedOperator, secondOperand);
-            //Console.ReadLine();
         }
 
         static void RunCalculator()
