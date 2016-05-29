@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\2\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.pdb
