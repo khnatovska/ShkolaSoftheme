@@ -1,0 +1,18 @@
+﻿<Window x:Class="Zodiac_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zodiac_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="411.691" Width="525">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="43" Margin="19,10,0,0" TextWrapping="Wrap" FontSize="25" Text="Birth date" VerticalAlignment="Top" Width="243"/>
+        <Button x:Name="button" Content="Find out my age and Zodiac sign" HorizontalAlignment="Left" Height="49" Margin="19,74,0,0" VerticalAlignment="Top" Width="467" Click="DetermineSignAndAge"/>
+        <Image x:Name="SignImage" HorizontalAlignment="Left" Height="169" Margin="19,159,0,0" VerticalAlignment="Top" Width="195" Source=".\img\leo.png"/>
+        <DatePicker x:Name="BirthdatePicker" HorizontalAlignment="Left" Height="44" Margin="262,10,0,0" VerticalAlignment="Top" Width="224"/>
+        <TextBlock x:Name="Age" HorizontalAlignment="Left" Height="61" Margin="262,159,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+        <TextBlock x:Name="Sign" HorizontalAlignment="Left" Height="61" Margin="262,267,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
+
+    </Grid>
+</Window>

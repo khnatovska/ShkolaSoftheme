@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zodiac WPF", "Zodiac WPF\Zodiac WPF.csproj", "{CEE2DDE0-DEA9-4DD1-81FC-35C695089858}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17BF7504-355B-4008-B4AA-2661C4CEF7A7}"
+	ProjectSection(SolutionItems) = preProject
+		Zodiac WPF\img\aquarius.png = Zodiac WPF\img\aquarius.png
+		Zodiac WPF\img\aries.png = Zodiac WPF\img\aries.png
+		Zodiac WPF\img\cancer.png = Zodiac WPF\img\cancer.png
+		Zodiac WPF\img\capricorn.png = Zodiac WPF\img\capricorn.png
+		Zodiac WPF\img\gemini.png = Zodiac WPF\img\gemini.png
+		Zodiac WPF\img\leo.png = Zodiac WPF\img\leo.png
+		Zodiac WPF\img\libra.png = Zodiac WPF\img\libra.png
+		Zodiac WPF\img\pisces.png = Zodiac WPF\img\pisces.png
+		Zodiac WPF\img\sagittarius.png = Zodiac WPF\img\sagittarius.png
+		Zodiac WPF\img\scorpio.png = Zodiac WPF\img\scorpio.png
+		Zodiac WPF\img\taurus.png = Zodiac WPF\img\taurus.png
+		Zodiac WPF\img\virgo.png = Zodiac WPF\img\virgo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE2DDE0-DEA9-4DD1-81FC-35C695089858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE2DDE0-DEA9-4DD1-81FC-35C695089858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE2DDE0-DEA9-4DD1-81FC-35C695089858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE2DDE0-DEA9-4DD1-81FC-35C695089858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

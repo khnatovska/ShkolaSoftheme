@@ -1,0 +1,14 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\bin\Debug\UserRegistrationForm.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\bin\Debug\UserRegistrationForm.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\bin\Debug\UserRegistrationForm.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\MainWindow.g.cs
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\App.g.cs
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm_MarkupCompile.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm_MarkupCompile.lref
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\MainWindow.baml
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.g.resources
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.Properties.Resources.resources
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.csproj.GenerateResource.Cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\4\UserRegistrationForm\UserRegistrationForm\obj\Debug\UserRegistrationForm.pdb

@@ -1,0 +1,13 @@
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\bin\Release\Zodiac WPF.exe
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\bin\Release\Zodiac WPF.pdb
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\MainWindow.g.cs
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\App.g.cs
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF_MarkupCompile.cache
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF_MarkupCompile.lref
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\MainWindow.baml
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF.g.resources
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac_WPF.Properties.Resources.resources
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF.csproj.GenerateResource.Cache
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF.exe
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\obj\Release\Zodiac WPF.pdb
+k:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\3\Zodiac WPF\Zodiac WPF\bin\Release\App.config
