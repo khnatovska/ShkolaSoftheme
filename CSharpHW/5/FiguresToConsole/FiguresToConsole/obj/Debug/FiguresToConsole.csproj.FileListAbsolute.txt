@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\bin\Debug\FiguresToConsole.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\bin\Debug\FiguresToConsole.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\bin\Debug\FiguresToConsole.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\obj\Debug\FiguresToConsole.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\obj\Debug\FiguresToConsole.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\5\FiguresToConsole\FiguresToConsole\obj\Debug\FiguresToConsole.pdb
