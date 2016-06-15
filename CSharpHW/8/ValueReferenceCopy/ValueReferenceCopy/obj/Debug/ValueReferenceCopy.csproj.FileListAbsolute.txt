@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\bin\Debug\ValueReferenceCopy.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\bin\Debug\ValueReferenceCopy.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\bin\Debug\ValueReferenceCopy.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\obj\Debug\ValueReferenceCopy.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\obj\Debug\ValueReferenceCopy.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\ValueReferenceCopy\ValueReferenceCopy\obj\Debug\ValueReferenceCopy.pdb

@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\bin\Debug\CarConstructor.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\bin\Debug\CarConstructor.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\bin\Debug\CarConstructor.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\obj\Debug\CarConstructor.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\obj\Debug\CarConstructor.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\8\CarConstructor\CarConstructor\obj\Debug\CarConstructor.pdb
