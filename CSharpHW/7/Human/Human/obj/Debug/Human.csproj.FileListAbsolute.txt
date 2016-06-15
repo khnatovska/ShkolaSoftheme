@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\bin\Debug\Human.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\bin\Debug\Human.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\bin\Debug\Human.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\obj\Debug\Human.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\obj\Debug\Human.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\Human\Human\obj\Debug\Human.pdb

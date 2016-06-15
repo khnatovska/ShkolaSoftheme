@@ -1,0 +1,5 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\ShapeDescriptor\ShapeDescriptor\bin\Debug\ShapeDescriptor.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\ShapeDescriptor\ShapeDescriptor\bin\Debug\ShapeDescriptor.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\ShapeDescriptor\ShapeDescriptor\bin\Debug\ShapeDescriptor.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\ShapeDescriptor\ShapeDescriptor\obj\Debug\ShapeDescriptor.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\ShapeDescriptor\ShapeDescriptor\obj\Debug\ShapeDescriptor.pdb

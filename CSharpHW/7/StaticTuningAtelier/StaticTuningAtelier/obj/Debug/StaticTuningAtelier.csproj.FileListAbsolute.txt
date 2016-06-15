@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\bin\Debug\StaticTuningAtelier.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\bin\Debug\StaticTuningAtelier.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\bin\Debug\StaticTuningAtelier.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\obj\Debug\StaticTuningAtelier.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\obj\Debug\StaticTuningAtelier.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\7\StaticTuningAtelier\StaticTuningAtelier\obj\Debug\StaticTuningAtelier.pdb
