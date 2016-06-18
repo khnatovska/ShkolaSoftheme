@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\bin\Debug\FileHandle.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\bin\Debug\FileHandle.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\bin\Debug\FileHandle.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\obj\Debug\FileHandle.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\obj\Debug\FileHandle.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\9\FileHandle\FileHandle\obj\Debug\FileHandle.pdb
