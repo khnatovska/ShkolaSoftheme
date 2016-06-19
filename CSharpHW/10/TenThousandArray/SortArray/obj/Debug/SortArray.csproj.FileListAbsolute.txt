@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\bin\Debug\SortArray.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\bin\Debug\SortArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\bin\Debug\SortArray.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\obj\Debug\SortArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\obj\Debug\SortArray.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache

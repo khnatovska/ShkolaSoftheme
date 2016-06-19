@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\bin\Debug\TenThousandArray.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\bin\Debug\TenThousandArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\bin\Debug\TenThousandArray.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\obj\Debug\TenThousandArray.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\obj\Debug\TenThousandArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\TenThousandArray\obj\Debug\TenThousandArray.pdb

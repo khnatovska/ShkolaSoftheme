@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\bin\Debug\WrappedArray.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\bin\Debug\WrappedArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\bin\Debug\WrappedArray.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\obj\Debug\WrappedArray.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\obj\Debug\WrappedArray.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\10\TenThousandArray\WrappedArray\obj\Debug\WrappedArray.pdb
