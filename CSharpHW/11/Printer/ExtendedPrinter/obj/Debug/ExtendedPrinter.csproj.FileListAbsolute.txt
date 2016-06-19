@@ -1,0 +1,8 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\bin\Debug\ExtendedPrinter.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\bin\Debug\ExtendedPrinter.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\bin\Debug\ExtendedPrinter.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\bin\Debug\Printer.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\bin\Debug\Printer.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\obj\Debug\ExtendedPrinter.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\obj\Debug\ExtendedPrinter.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\11\Printer\ExtendedPrinter\obj\Debug\ExtendedPrinter.pdb
