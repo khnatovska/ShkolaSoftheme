@@ -1,0 +1,1 @@
+file connection for ResourceHolderBase

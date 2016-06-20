@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\13\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.pdb
