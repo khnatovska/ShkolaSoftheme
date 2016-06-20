@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\bin\Debug\UserValidator.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\bin\Debug\UserValidator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\bin\Debug\UserValidator.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\obj\Debug\UserValidator.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\obj\Debug\UserValidator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\12\UserValidator\UserValidator\obj\Debug\UserValidator.pdb
