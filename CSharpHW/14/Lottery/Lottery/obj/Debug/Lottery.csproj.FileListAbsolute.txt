@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\bin\Debug\Lottery.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\bin\Debug\Lottery.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\bin\Debug\Lottery.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\obj\Debug\Lottery.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\14\Lottery\Lottery\obj\Debug\Lottery.pdb
