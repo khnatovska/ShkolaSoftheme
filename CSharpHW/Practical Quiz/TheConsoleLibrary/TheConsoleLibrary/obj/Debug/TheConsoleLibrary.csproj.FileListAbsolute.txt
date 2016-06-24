@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\bin\Debug\TheConsoleLibrary.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\bin\Debug\TheConsoleLibrary.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\bin\Debug\TheConsoleLibrary.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\obj\Debug\TheConsoleLibrary.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\obj\Debug\TheConsoleLibrary.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\Practical Quiz\TheConsoleLibrary\TheConsoleLibrary\obj\Debug\TheConsoleLibrary.pdb
