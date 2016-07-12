@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\15\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
