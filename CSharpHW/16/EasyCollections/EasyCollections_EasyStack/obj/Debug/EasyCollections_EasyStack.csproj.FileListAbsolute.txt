@@ -1,0 +1,5 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyStack\bin\Debug\EasyCollections_EasyStack.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyStack\bin\Debug\EasyCollections_EasyStack.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyStack\bin\Debug\EasyCollections_EasyStack.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyStack\obj\Debug\EasyCollections_EasyStack.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyStack\obj\Debug\EasyCollections_EasyStack.pdb

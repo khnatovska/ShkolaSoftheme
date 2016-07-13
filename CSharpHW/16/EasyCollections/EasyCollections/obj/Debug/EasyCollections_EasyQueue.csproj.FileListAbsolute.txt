@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\bin\Debug\EasyCollections.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\bin\Debug\EasyCollections.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\bin\Debug\EasyCollections.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\obj\Debug\EasyCollections_EasyQueue.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\obj\Debug\EasyCollections.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections\obj\Debug\EasyCollections.pdb
