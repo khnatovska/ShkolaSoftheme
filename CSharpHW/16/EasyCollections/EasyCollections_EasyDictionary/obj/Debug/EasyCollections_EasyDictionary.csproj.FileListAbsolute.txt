@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\bin\Debug\EasyCollections_EasyDictionary.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\bin\Debug\EasyCollections_EasyDictionary.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\bin\Debug\EasyCollections_EasyDictionary.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\obj\Debug\EasyCollections_EasyDictionary.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\obj\Debug\EasyCollections_EasyDictionary.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\16\EasyCollections\EasyCollections_EasyDictionary\obj\Debug\EasyCollections_EasyDictionary.pdb
