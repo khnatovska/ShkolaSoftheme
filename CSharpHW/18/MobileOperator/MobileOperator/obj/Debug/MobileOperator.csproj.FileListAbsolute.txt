@@ -1,0 +1,6 @@
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe.config
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\bin\Debug\MobileOperator.pdb
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\obj\Debug\MobileOperator.exe
+K:\Education\C Sharp Softheme\git\ShkolaSoftheme\CSharpHW\18\MobileOperator\MobileOperator\obj\Debug\MobileOperator.pdb
