@@ -65,30 +65,12 @@ namespace MobileOperator
         
         public void ReceiveCall(object sender, MobileAccountEventsArgs e)
         {
-            //string caller;
-            ////if (Phonebook.ContainsKey(e.CallingNumber))
-            //{
-            //    caller = Phonebook[e.CallingNumber];
-            //}
-            //else
-            //{
-            //    caller = e.CallingNumber.ToString();
-            //}
             var incomingNumber = FindInPhonebook(e.CallingNumber);
             Console.WriteLine("Account {0} is receiving a call from {1}", Number, incomingNumber);
         }
 
         public void ReceiveMessage(object sender, MobileAccountEventsArgs e)
         {
-            //string caller;
-            //if (Phonebook.ContainsKey(e.CallingNumber))
-            //{
-            //    caller = Phonebook[e.CallingNumber];
-            //}
-            //else
-            //{
-            //    caller = e.CallingNumber.ToString();
-            //}
             var incommingNumber = FindInPhonebook(e.CallingNumber);
             Console.WriteLine("Account {0} has received a message from {1}: \" {2} \"", Number, incommingNumber, e.Text);
         }
